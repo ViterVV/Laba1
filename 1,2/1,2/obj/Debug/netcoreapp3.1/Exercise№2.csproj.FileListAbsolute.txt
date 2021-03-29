@@ -1,0 +1,13 @@
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\bin\Debug\netcoreapp3.1\Exercise№2.exe
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\bin\Debug\netcoreapp3.1\Exercise№2.deps.json
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\bin\Debug\netcoreapp3.1\Exercise№2.runtimeconfig.json
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\bin\Debug\netcoreapp3.1\Exercise№2.runtimeconfig.dev.json
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\bin\Debug\netcoreapp3.1\Exercise№2.dll
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\bin\Debug\netcoreapp3.1\Exercise№2.pdb
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.csprojAssemblyReference.cache
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.AssemblyInfoInputs.cache
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.AssemblyInfo.cs
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.csproj.CoreCompileInputs.cache
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.dll
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.pdb
+E:\PROJECTS\University LABS\Lab№1\Exercise№2\Exercise№2\obj\Debug\netcoreapp3.1\Exercise№2.genruntimeconfig.cache

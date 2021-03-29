@@ -1,0 +1,13 @@
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.csprojAssemblyReference.cache
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.AssemblyInfoInputs.cache
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.AssemblyInfo.cs
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.csproj.CoreCompileInputs.cache
+E:\PROJECTS\University LABS\Lab№1\Lab№1\bin\Debug\netcoreapp3.1\Lab№1.exe
+E:\PROJECTS\University LABS\Lab№1\Lab№1\bin\Debug\netcoreapp3.1\Lab№1.deps.json
+E:\PROJECTS\University LABS\Lab№1\Lab№1\bin\Debug\netcoreapp3.1\Lab№1.runtimeconfig.json
+E:\PROJECTS\University LABS\Lab№1\Lab№1\bin\Debug\netcoreapp3.1\Lab№1.runtimeconfig.dev.json
+E:\PROJECTS\University LABS\Lab№1\Lab№1\bin\Debug\netcoreapp3.1\Lab№1.dll
+E:\PROJECTS\University LABS\Lab№1\Lab№1\bin\Debug\netcoreapp3.1\Lab№1.pdb
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.dll
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.pdb
+E:\PROJECTS\University LABS\Lab№1\Lab№1\obj\Debug\netcoreapp3.1\Lab№1.genruntimeconfig.cache
